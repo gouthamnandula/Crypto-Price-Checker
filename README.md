@@ -27,12 +27,12 @@ A simple web application built with **Node.js**, **Express**, and **EJS** that a
 
 ## 🛠️ Tech Stack
 
-- Node.js
-- Express.js
-- EJS (Embedded JavaScript templating)
-- Blockchain API
-- HTML/CSS
-
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [EJS](https://ejs.co/)
+- [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web)
+- [CoinGecko API](https://www.coingecko.com/en/api)
+  
 
 ---
 
